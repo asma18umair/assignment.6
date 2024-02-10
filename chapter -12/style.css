@@ -1,0 +1,125 @@
+body {
+    background-color: darkkhaki;
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 3px #e90bde;
+    cornflowerblue;
+    padding-bottom: 10px;
+    text-align: start;
+    font-style: italic;
+    text-decoration-line: underline;
+    text-decoration-color: black;
+}
+
+ol {
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+fieldset {
+    width: 400px;
+    height: 150px;
+    background-color: aqua;
+}
+
+h2 {
+    font-weight: bolder;
+    color: rgb(10, 10, 107);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-decoration-line: underline;
+    text-decoration-color: black;
+    text-transform: uppercase;
+    background-color: rgb(196, 120, 164);
+}
+
+.top {
+    width: 600px;
+    height: 200px;
+    align-items: center;
+    font-size: larger;
+    font-weight: bold;
+    font-family: cursive;
+    font-style: italic;
+    color: gold;
+    background-color: black;
+
+}
+
+.mid {
+    width: 600px;
+    height: 80px;
+    align-items: center;
+    font-size: larger;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: rgb(228, 18, 18);
+    background-color: grey;
+}
+
+.last {
+    width: 850px;
+    height: 300px;
+    align-items: center;
+    font-size: larger;
+    font-weight: bold;
+    font-family: cursive;
+    font-style: italic;
+    color: rgb(30, 30, 31);
+    background-color: rgb(104, 117, 28);
+}
+
+.one {
+    font-weight: bolder;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(6, 65, 40);
+}
+
+q {
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: cornflowerblue;
+}
+
+.two {
+    font-weight: bolder;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(75, 29, 105);
+}
+
+.three {
+    font-weight: bolder;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(202, 20, 20);
+}
+
+a {
+    font-weight: bolder;
+    font-size: large;
+    color: rgb(63, 41, 88);
+}
+
+.clr {
+    width: 1200px;
+    height: 1000px;
+    background-color: aqua;
+}
+
+.clrr {
+    width: 1200px;
+    height: 700px;
+    background-color: black;
+}
+
+.clrrr {
+    width: 1200px;
+    height: 800px;
+    background-color: rgb(212, 24, 24);
+}
